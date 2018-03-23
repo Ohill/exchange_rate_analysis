@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<root>
+	<Universal>
+		<USD>
+			<buy>26.30</buy>
+			<sell>26.50</sell>
+		</USD>
+		<EUR>
+			<buy>32.35</buy>
+			<sell>32.70</sell>
+		</EUR>
+	</Universal>
+	<Oschad>
+		<USD>
+			<buy>26,2000</buy>
+			<sell>26,8500</sell>
+		</USD>
+		<EUR>
+			<buy>32,0000</buy>
+			<sell>32,8500</sell>
+		</EUR>
+	</Oschad>
+	<Pravex>
+		<USD>
+			<buy>26.2</buy>
+			<sell>26.49</sell>
+		</USD>
+		<EUR>
+			<buy>32.35</buy>
+			<sell>32.8</sell>
+		</EUR>
+	</Pravex>
+</root>
